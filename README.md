@@ -4,8 +4,8 @@ summerfruit256.vim with a couple modifications for my eyes.
 
 ## Screenshot
 
-I use something called (Powerline)[https://github.com/Lokaltog/vim-powerline] and basically have no idea how the normal vim status line looks with this. YMMV.
-Thanks to the (Vim Color Scheme Test)[https://code.google.com/p/vimcolorschemetest/] project for providing source samples.
+I use something called [Powerline](https://github.com/Lokaltog/vim-powerline) and basically have no idea how the normal vim status line looks with this. YMMV.
+Thanks to the [Vim Color Scheme Test](https://code.google.com/p/vimcolorschemetest/) project for providing source samples.
 
 <img src="https://raw.github.com/cscorley/summerfruit256.vim/master/screenshot.png">
 
