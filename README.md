@@ -24,5 +24,5 @@ You can find a screenshot here: http://blisqu.wordpress.com/2012/02/02/summerfru
 ### Manually
 
     % git clone git://github.com/summerfruit256.vim.git summerfruit256
-    % cp ./summerfruit256/* ~/.vim/colors
+    % cp ./summerfruit256/colors/* ~/.vim/colors/
 
