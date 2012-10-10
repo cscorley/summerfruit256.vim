@@ -4,7 +4,7 @@ summerfruit256.vim with a couple modifications for my eyes.
 
 ## Screenshot
 
-eventually.
+<img src="https://github.com/cscorley/summerfruit256.vim/blob/master/screenshot.png">
 
 ## Old README
 
