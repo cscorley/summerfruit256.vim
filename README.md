@@ -23,10 +23,10 @@ You can find a screenshot here: http://blisqu.wordpress.com/2012/02/02/summerfru
 ### Using [Pathogen](http://www.vim.org/scripts/script.php?script_id=2332)
 
     % cd ~/.vim/bundle
-    % git clone git://github.com/summerfruit256.vim.git
+    % git clone git://github.com/cscorley/summerfruit256.vim.git
 
 ### Manually
 
-    % git clone git://github.com/summerfruit256.vim.git summerfruit256
+    % git clone git://github.com/cscorley/summerfruit256.vim.git summerfruit256
     % cp ./summerfruit256/colors/* ~/.vim/colors/
 
